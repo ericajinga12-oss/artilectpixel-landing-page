@@ -1,5 +1,21 @@
-ArtilectPixel | Arte & Tecnologia
+ArtilectPixel
 
-Onde a arte visual encontra a tecnologia do futuro. 🎨⚡
-Design Digital | Animação | Experiências Imersivas
-🚀 A transformar ideias em impacto visual.
+Landing page da ArtilectPixel | Arte & Tecnologia.
+
+A ArtilectPixel une arte visual, design digital, animação e tecnologia para criar experiências e identidades visuais modernas.
+
+Estrutura
+
+index.html — landing page completa
+
+Design responsivo para computador e telemóvel
+
+Fundo interativo com partículas
+
+Secções: Início, Sobre, Serviços e Contacto
+
+CTA para Instagram
+
+Instagram
+
+https://www.instagram.com/artilect_pixel?igsh=YmFmdHdzcDFvN2cx
